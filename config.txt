@@ -1,0 +1,6 @@
+owner=483961533777444874
+prefix=ja 
+game= Plus Music | japlay
+stayinchannel=true
+songinstatus=false
+token=NTcwMjE4ODI0MDk2Mjg0Njgy.XL8Aeg.IYJN-KW_Ff_KTkHOI0O759OWOBU
